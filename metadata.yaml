@@ -1,0 +1,45 @@
+_repo: Aubrey-Beardsley-b-the-clown-the-harlequin-the-pierrot-of-his-age_75239
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Beardsley, Aubrey
+    birthdate: 1872
+    deathdate: 1898
+    gutenberg_agent_id: '41820'
+    url: http://www.gutenberg.org/2009/agents/41820
+    wikipedia: https://en.wikipedia.org/wiki/Aubrey_Beardsley
+creator:
+  author:
+    agent_name: Macfall, Haldane
+    aliases:
+    - Macfall, Chambers Haldane Cooke
+    - Dane, Hal
+    - MacFall, Haldane
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '34515'
+    url: http://www.gutenberg.org/2009/agents/34515
+    wikipedia: https://en.wikipedia.org/wiki/Haldane_MacFall
+description: ''
+gutenberg_issued: '2025-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75239'
+language: en
+pgterms:marc904: https://archive.org/details/aubreybeardsleyc00macf
+pgterms:marc905: 20230921130105macfall
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Alan, deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bSimon and Schuster, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illustration of books -- Great Britain -- 19th century'
+- !lcsh 'Beardsley, Aubrey, 1872-1898'
+- !lcc 'NC'
+- GITenberg
+title: 'Aubrey Beardsley : $b the clown, the harlequin, the pierrot of his age'
+url: http://www.gutenberg.org/ebooks/75239
